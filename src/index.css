@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0; /* Remove a margem padrão do corpo */
+  padding: 0; /* Remove o padding padrão do corpo */
+}
+
